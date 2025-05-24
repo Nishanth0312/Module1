@@ -28,7 +28,7 @@ print("d:", d)
 ```
 
 ## Output
-![Screenshot 2025-05-02 114216](https://github.com/user-attachments/assets/1bb21966-cb81-4754-9f10-f744c058da61)
+![438637470-ea64d494-b2a2-4b1a-833e-0e561296ecf0](https://github.com/user-attachments/assets/e2d1588c-1dfd-4c16-9be6-5e0ecb3d073c)
 
 
 ## Result
