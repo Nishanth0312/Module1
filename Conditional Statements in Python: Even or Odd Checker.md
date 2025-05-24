@@ -20,8 +20,9 @@ else:
    print("ODD")
 ```
 ## Output
+![438635966-2d1612a7-8a61-4033-88cb-5fcbab407c5c](https://github.com/user-attachments/assets/8c46e18c-56c5-4dc0-9ba6-95f3b997b833)
 
-![WhatsApp Image 2025-05-02 at 11 22 12_cf820c2a](https://github.com/user-attachments/assets/3d48ea20-5cc3-4d45-afb9-12728502a26b)
+
 
 ## Result
 Thus the program has been successfully executed
